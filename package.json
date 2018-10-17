@@ -1,0 +1,19 @@
+{
+  "name": "weatherappexpress",
+  "version": "1.0.0",
+  "description": "check weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhohbruno/weatherstatus.git"
+  },
+  "author": "bruno costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uhohbruno/weatherstatus/issues"
+  },
+  "homepage": "https://github.com/uhohbruno/weatherstatus#readme"
+}
